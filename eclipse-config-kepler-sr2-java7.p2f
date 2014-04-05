@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?p2f version='1.0.0'?>
+<p2f version='1.0.0'>
+  <ius size='35'>
+    <iu id='com.amazonaws.eclipse.dynamodb.feature.feature.group' name='Amazon DynamoDB Management' version='1.0.0.v201402141427'>
+      <repositories size='1'>
+        <repository location='http://aws.amazon.com/eclipse'/>
+      </repositories>
+    </iu>
+    <iu id='com.amazonaws.eclipse.ec2.feature.group' name='Amazon EC2 Management' version='1.1.0.v201402141427'>
+      <repositories size='1'>
+        <repository location='http://aws.amazon.com/eclipse'/>
+      </repositories>
+    </iu>
+    <iu id='com.amazonaws.eclipse.rds.feature.feature.group' name='Amazon RDS Management' version='1.0.0.v201402141427'>
+      <repositories size='1'>
+        <repository location='http://aws.amazon.com/eclipse'/>
+      </repositories>
+    </iu>
+    <iu id='com.amazonaws.eclipse.datatools.enablement.simpledb.feature.feature.group' name='Amazon SimpleDB Management' version='1.0.0.v201402141427'>
+      <repositories size='1'>
+        <repository location='http://aws.amazon.com/eclipse'/>
+      </repositories>
+    </iu>
+    <iu id='com.amazonaws.eclipse.cloudformation.feature.feature.group' name='AWS CloudFormation Tools' version='1.0.0.v201402141427'>
+      <repositories size='1'>
+        <repository location='http://aws.amazon.com/eclipse'/>
+      </repositories>
+    </iu>
+    <iu id='com.amazonaws.eclipse.elasticbeanstalk.feature.feature.group' name='AWS Elastic Beanstalk' version='1.0.0.v201401072047'>
+      <repositories size='1'>
+        <repository location='http://aws.amazon.com/eclipse'/>
+      </repositories>
+    </iu>
+    <iu id='com.amazonaws.eclipse.sdk.feature.feature.group' name='AWS SDK for Java' version='2.0.0.v201401081915'>
+      <repositories size='1'>
+        <repository location='http://aws.amazon.com/eclipse'/>
+      </repositories>
+    </iu>
+    <iu id='com.amazonaws.eclipse.simpleworkflow.feature.feature.group' name='AWS Simple Workflow Tools' version='1.0.0.v201202211329'>
+      <repositories size='1'>
+        <repository location='http://aws.amazon.com/eclipse'/>
+      </repositories>
+    </iu>
+    <iu id='com.amazonaws.eclipse.core.feature.feature.group' name='AWS Toolkit for Eclipse Core' version='2.0.1.v201402141427'>
+      <repositories size='1'>
+        <repository location='http://aws.amazon.com/eclipse'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.mylyn.github.feature.feature.group' name='Eclipse GitHub integration with task focused interface' version='3.2.0.201312181205-r'>
+      <repositories size='1'>
+        <repository location='http://download.eclipse.org/releases/kepler'/>
+      </repositories>
+    </iu>
+    <iu id='epp.package.jee' name='Eclipse IDE for Java EE Developers' version='2.0.2.20140224-0000'>
+      <repositories size='1'>
+        <repository location='http://download.eclipse.org/releases/kepler'/>
+      </repositories>
+    </iu>
+    <iu id='com.google.gdt.eclipse.suite.e43.feature.feature.group' name='Google Plugin for Eclipse 4.3' version='3.5.1.v201312301723-rel-r43'>
+      <repositories size='1'>
+        <repository location='https://dl.google.com/eclipse/plugin/4.3'/>
+      </repositories>
+    </iu>
+    <iu id='com.google.gwt.eclipse.sdkbundle.feature.feature.group' name='Google Web Toolkit SDK 2.6.0' version='2.6.0'>
+      <repositories size='1'>
+        <repository location='https://dl.google.com/eclipse/plugin/4.3'/>
+      </repositories>
+    </iu>
+    <iu id='org.springsource.ide.eclipse.gradle.feature.feature.group' name='Gradle IDE' version='3.5.0.201404011446-RELEASE'>
+      <repositories size='1'>
+        <repository location='http://dist.springsource.com/release/TOOLS/gradle'/>
+      </repositories>
+    </iu>
+    <iu id='org.codehaus.groovy21.feature.feature.group' name='Groovy Compiler 2.1 Feature' version='2.8.0.xx-20130703-1600-e43-RELEASE'>
+      <repositories size='1'>
+        <repository location='http://dist.springsource.org/release/GRECLIPSE/e4.3/'/>
+      </repositories>
+    </iu>
+    <iu id='org.codehaus.groovy.eclipse.feature.feature.group' name='Groovy-Eclipse Feature' version='2.8.0.xx-20130703-1600-e43-RELEASE'>
+      <repositories size='1'>
+        <repository location='http://dist.springsource.org/release/GRECLIPSE/e4.3/'/>
+      </repositories>
+    </iu>
+    <iu id='org.codehaus.groovy.jdt.patch.source.feature.group' name='Groovy-Eclipse JDT Patch Sources Feature' version='2.8.0.xx-20130703-1600-e43-RELEASE'>
+      <repositories size='1'>
+        <repository location='http://dist.springsource.org/release/GRECLIPSE/e4.3/'/>
+      </repositories>
+    </iu>
+    <iu id='org.codehaus.groovy.m2eclipse.feature.group' name='Groovy-Eclipse M2E integration' version='2.8.0.xx-20130703-1600-e43-RELEASE'>
+      <repositories size='1'>
+        <repository location='http://dist.springsource.org/release/GRECLIPSE/e4.3/'/>
+      </repositories>
+    </iu>
+    <iu id='com.google.gdt.eclipse.designer.hosted.feature.feature.group' name='GWT Designer Core' version='3.1.2.r43x201307151442'>
+      <repositories size='1'>
+        <repository location='https://dl.google.com/eclipse/plugin/4.3'/>
+      </repositories>
+    </iu>
+    <iu id='com.google.gdt.eclipse.designer.editor.feature.feature.group' name='GWT Designer Editor' version='3.1.2.r43x201307151447'>
+      <repositories size='1'>
+        <repository location='https://dl.google.com/eclipse/plugin/4.3'/>
+      </repositories>
+    </iu>
+    <iu id='com.google.gdt.eclipse.designer.gpe.feature.feature.group' name='GWT Designer GPE' version='3.1.2.r43x201307151506'>
+      <repositories size='1'>
+        <repository location='https://dl.google.com/eclipse/plugin/4.3'/>
+      </repositories>
+    </iu>
+    <iu id='com.github.dnadolny.javatoscala.feature.feature.group' name='Java to Scala' version='1.2.0.v-2_10-201404011311-48c58ab'>
+      <repositories size='1'>
+        <repository location='http://download.scala-ide.org/sdk/helium/e38/scala210/stable/site'/>
+      </repositories>
+    </iu>
+    <iu id='org.codehaus.groovy.jdt.patch.feature.group' name='JDT Core patch for Groovy-Eclipse plugin' version='2.8.0.xx-20130703-1600-e43-RELEASE'>
+      <repositories size='1'>
+        <repository location='http://dist.springsource.org/release/GRECLIPSE/e4.3/'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.m2e.feature.feature.group' name='m2e - Maven Integration for Eclipse' version='1.4.1.20140328-1905'>
+      <repositories size='1'>
+        <repository location='http://download.eclipse.org/technology/m2e/releases/'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.m2e.logback.feature.feature.group' name='m2e - slf4j over logback logging (Optional)' version='1.4.1.20140328-1905'>
+      <repositories size='1'>
+        <repository location='http://download.eclipse.org/technology/m2e/releases/'/>
+      </repositories>
+    </iu>
+    <iu id='org.scala-ide.play2.feature.feature.group' name='Play2 support in Scala IDE' version='0.4.3.v-2_10-201403271612-2a1df2b'>
+      <repositories size='1'>
+        <repository location='http://download.scala-ide.org/sdk/helium/e38/scala210/stable/site'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.linuxtools.rpm.feature.group' name='RPM Import/Export/Building and Editing Tool' version='1.0.0.201402102340'>
+      <repositories size='1'>
+        <repository location='http://download.eclipse.org/releases/kepler'/>
+      </repositories>
+    </iu>
+    <iu id='org.scala-ide.sdt.feature.feature.group' name='Scala IDE for Eclipse' version='3.0.3.v-2_10-201403271605-8d2c756'>
+      <repositories size='1'>
+        <repository location='http://download.scala-ide.org/sdk/helium/e38/scala210/stable/site'/>
+      </repositories>
+    </iu>
+    <iu id='org.scala.tools.eclipse.search.feature.feature.group' name='Scala Search' version='0.2.2.v-2_10-201403271614-17bd343'>
+      <repositories size='1'>
+        <repository location='http://download.scala-ide.org/sdk/helium/e38/scala210/stable/site'/>
+      </repositories>
+    </iu>
+    <iu id='org.scalaide.worksheet.feature.feature.group' name='Scala Worksheet' version='0.2.3.v-2_10-201403271610-a26bff7'>
+      <repositories size='1'>
+        <repository location='http://download.scala-ide.org/sdk/helium/e38/scala210/stable/site'/>
+      </repositories>
+    </iu>
+    <iu id='org.scala-ide.sdt.scalatest.feature.feature.group' name='ScalaTest for Scala IDE' version='2.9.3.v-3-2_10-201403280505-815945b'>
+      <repositories size='1'>
+        <repository location='http://download.scala-ide.org/sdk/helium/e38/scala210/stable/site'/>
+      </repositories>
+    </iu>
+    <iu id='com.vaadin.integration.eclipse.feature.group' name='Vaadin Plug-in for Eclipse' version='2.2.0.201312051010'>
+      <repositories size='1'>
+        <repository location='http://vaadin.com/eclipse'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.wb.core.feature.feature.group' name='WindowBuilder Core' version='1.6.0.r43x201305211944'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/kepler'/>
+        <repository location='https://dl.google.com/eclipse/plugin/4.3'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.wb.css.feature.feature.group' name='WindowBuilder CSS Support' version='1.6.0.r43x201306031647'>
+      <repositories size='1'>
+        <repository location='https://dl.google.com/eclipse/plugin/4.3'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.wb.core.xml.feature.feature.group' name='WindowBuilder XML Core (requires Eclipse WTP/WST)' version='1.6.0.r43x201306031653'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/kepler'/>
+        <repository location='https://dl.google.com/eclipse/plugin/4.3'/>
+      </repositories>
+    </iu>
+  </ius>
+</p2f>
